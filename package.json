@@ -1,5 +1,5 @@
 {
-  "name": "charcodes",
+  "name": "ts-charcodes",
   "version": "1.0.0",
   "description": "constants of char code basic typescript",
   "main": "index.ts",
