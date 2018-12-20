@@ -1,0 +1,21 @@
+{
+  "name": "charcodes",
+  "version": "1.0.0",
+  "description": "constants of char code basic typescript",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonYaph/charcodes.git"
+  },
+  "keywords": [
+    "charcode",
+    "typescript",
+    "babel"
+  ],
+  "author": "moonyaph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoonYaph/charcodes/issues"
+  },
+  "homepage": "https://github.com/MoonYaph/charcodes#readme"
+}
